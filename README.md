@@ -4,9 +4,6 @@
 ## Nice to meet you 👋
 #### My name is Yewon Han(한예원).
 
-#### 📫 Email: hanyw0207@naver.com
-#### 🌱 Blog: https://yebaaaaa.tistory.com/
-
 ## Github stats 🐾
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yewoonn&show_icons=true&theme=transparent)
