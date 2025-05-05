@@ -3,15 +3,13 @@
 
 ## Nice to meet you 👋
 #### My name is Yewon Han(한예원).
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/yewoonn"/>
+</a>
 
 ## Github stats 🐾
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yewoonn&show_icons=true&theme=transparent)
 
-
-## Boj Profile 👀
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hanyw0207)](https://solved.ac/hanyw0207)
 
 <!--
 **yewoonn/yewoonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
