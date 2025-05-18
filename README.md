@@ -1,30 +1,48 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E8AFC&height=200&section=header&text=Yewoonn%20Github🌟&fontSize=70" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&animation=twinkling" width="100%" />
 
+## Hi there! I'm Yewon Han.
+- 🌱 Focused on socially impactful technology.</li> 
+- 🎓 Studying Computer Science Engineering at Dongguk University.</li> 
+- ✨ Connecting people and AI for real-world solutions.</li>
 
-# My name is Yewon Han.
+<h3 align="center">" Built with empathy. Aimed at impact." </h3>
+<h3 align="center"> <a href="https://yewoonn.github.io/" download class="download-btn">Visit My Homepage ✨</a> </h3>
+<br> 
 
-## 🎓 **Education**  
-- **Computer Science Engineering** at **Dongguk University**  
+## 🚀 Projects
+### 1. Pathway-augmented Differential Transformers for Drug Response Prediction <br>
+: Built and optimized a pathway-aware drug response prediction model with differential cross attention
+- Poster @ [RECOMB 2025 (2025.04.26)](https://recomb.org/recomb2025/index.html)
+- Paper submitted to KCC 2025 (awaiting review)
+<br>
 
-## 🏆 Certifications  
-- **SQLD**  
-- **지식재산능력시험 국가공인민간자격 2급**
+### 2. Designing an Accessible Kiosk System with Screen Reader Support for the Visually Impaired <br>
+: Led to design a screen reader–friendly ordering system, Conducted on-site user interviews at institutions
+- Patent application submitted (awaiting review)
+<br>
 
-## 🌟 ETC  
-- **2023** 강북청소년센터, 청소년 멘토링 및 보조 강사 
-- **2024** HI-Sw 봉사단, 경인중학교 특수 학급 멘토 
-- **2025** HI-Sw 봉사단, 강희중학교 특수 학급 멘토 
+### 3. Developing Accurate and Trustworthy Machine Learning Force Fields for Battery Material Simulations <br>
+: Improved MACE framework by incorporating edge-variant graph filter
+- Ranked within top 10% in Samsung MLFF Challenge (Dacon)
+<br>
 
-### 📫 **Contact Me**  
+## 📝 Certifications  
+- SQL Developer(SQLD), Korea Data Agency
+- Level 2 Certificate in Intellectual Property Competency, Korea Invention Promotion Association
+<br> 
+
+## 🌱 Mentoring 
+- **2024~2025** IT Mentoring Program Instructor for Special Education (Gyeongin, Gwanghui middle school)
+- **2023** Youth Program Planner & Mentor (Seoul Gangbuk Youth Center)
+
+<br> 
+
+## 💬 Contact Me
 - 📧 Email : **hanyw0207@naver.com**  
 - ✍️ Blog : [yebaaaaa.tistory.com](https://yebaaaaa.tistory.com/)
-- 📝 Portfolio : [yewoonn.github.io](https://yewoonn.github.io/) 
+- 📝 Portfolio : [yewoonn.github.io](https://yewoonn.github.io/)
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/yewoonn"/>
-</a>
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&animation=twinkling" width="100%" />
 <!--
 **yewoonn/yewoonn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
