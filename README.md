@@ -5,15 +5,11 @@
 - 🎓 Studying Computer Science Engineering at Dongguk University.</li> 
 - ✨ Connecting people and AI for real-world solutions.</li>
 
-<h3 align="center">" Built with empathy. Aimed at impact." </h3>
-<h3 align="center"> <a href="https://yewoonn.github.io/" download class="download-btn">Visit My Homepage ✨</a> </h3>
-<br> 
-
 ## 🚀 Projects
 ### 1. Pathway-augmented Differential Transformers for Drug Response Prediction <br>
 : Built and optimized a pathway-aware drug response prediction model with differential cross attention
 - Poster @[RECOMB 2025 (2025.04.26)](https://recomb.org/recomb2025/index.html)
-- Paper submitted to @[KCC 2025 (2025.07.04)](https://www.kiise.or.kr/conference/kcc/2025/) (Undergraduate Poster session, _Accepted_)
+- Poster @[KCC 2025 (2025.07.04)](https://www.kiise.or.kr/conference/kcc/2025/) (Undergraduate Poster session)
 <br>
 
 ### 2. Designing an Accessible Kiosk System with Screen Reader Support for the Visually Impaired <br>
